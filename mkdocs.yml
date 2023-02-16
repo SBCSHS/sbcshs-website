@@ -39,7 +39,7 @@ theme:
     logo: material/dog
     repo: fontawesome/brands/github
     edit: material/pencil
-  custom_dir: overrides
+ # custom_dir: overrides
   palette:
     - scheme: default
       toggle:
