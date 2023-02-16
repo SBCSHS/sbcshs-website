@@ -1,5 +1,5 @@
 # run this
-# pip install mkdocs mkdocs-material==9.0.0b4 mkdocs-git-revision-date-localized-plugin mkdocs-glightbox pillow cairosvg
+# pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox pillow cairosvg
 site_name: "Stone Bridge Computer Science Honor Society"
 site_author: SBHS CS Honor Society
 site_description: "Website for SBHS' CS Honor Society."
