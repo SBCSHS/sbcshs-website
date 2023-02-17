@@ -90,6 +90,9 @@ markdown_extensions:
   - pymdownx.emoji: # emojis
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.highlight: # adds code highlighting
       anchor_linenums: true
       use_pygments: true
