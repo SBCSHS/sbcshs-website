@@ -1,3 +1,5 @@
+# @format
+
 # run this
 # pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox pillow cairosvg
 site_name: "Stone Bridge Computer Science Honor Society"
@@ -13,13 +15,6 @@ edit_uri: ""
 extra_css:
   - stylesheets/extra.css
 
-# table of contents directories
-#nav:
-#  - Home: 'index.md'
-#  - Docs: 'docs.md'
-#  - GitHub: 'github.md'
-#  - Design: 'design.md'
-
 # theme
 theme:
   name: material
@@ -28,20 +23,20 @@ theme:
     - search.highlight
     - search.suggest
     - search.share
-    - content.tabs.link 
+    - content.tabs.link
     - content.code.annotate
-#   - navigation.tabs
+    #   - navigation.tabs
     - navigation.expand
     - navigation.tracking
     - navigation.instant
     - navigation.sections
-#   - navigation.indexes
+    #   - navigation.indexes
     - toc.integrate
   icon:
     logo: material/dog
     repo: fontawesome/brands/github
     edit: material/pencil
- # custom_dir: overrides
+  # custom_dir: overrides
   palette:
     - scheme: default
       toggle:
@@ -54,35 +49,11 @@ theme:
 
 # material extensions
 extra:
-#  analytics:
-#   provider: google
-#   property: G-96JMH9MJRG
-#   feedback:
-#     title: Was this page helpful?
-#     ratings:
-#       - icon: material/emoticon-happy-outline
-#         name: This page was helpful
-#         data: 1
-#         note: >-
-#          Thanks for your feedback!
-#       - icon: material/emoticon-sad-outline
-#          name: This page could be improved
-#         data: 0
-#         note: >- 
-#          Thanks for your feedback! Help us improve this page by
-#          using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
   generator: false
-  social: 
+  social:
     - icon: fontawesome/brands/github
       link: https://github.com/SBCSHS/sbcshs-website
       name: sbcshs-website
-# consent:
-#   title: Cookie consent
-#   description: >-
-#    We use cookies to recognize your repeated visits and preferences, as well
-#    as to measure the effectiveness of our documentation and whether users
-#    find what they're searching for. With your consent, you're helping us to
-#    make our documentation better.
 
 # plugins
 plugins:
@@ -90,9 +61,6 @@ plugins:
       enable_creation_date: true
       type: iso_datetime
       fallback_to_build_date: true
-# - social: # social cards
-#     cards: true
-#     cards_dir: docs/images/social
   - glightbox: # image linking
       touchNavigation: true
       loop: false
@@ -147,7 +115,7 @@ markdown_extensions:
   - toc: # table of contents
       permalink: true
 
-# javascript extension supplements
+# javascript extensions
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
