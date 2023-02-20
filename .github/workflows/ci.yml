@@ -1,8 +1,12 @@
-name: ci 
+# @format
+
+# DO NOT TOUCH THIS FILE
+
+name: ci
 on:
   push:
     branches:
-      - master 
+      - master
       - main
 permissions:
   contents: write
