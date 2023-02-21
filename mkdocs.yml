@@ -6,12 +6,6 @@ site_name: "Stone Bridge Computer Science Honor Society"
 site_author: SBHS CS Honor Society
 site_description: "Website for SBHS' CS Honor Society."
 
-# for content tabs
-markdown_extensions:
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true 
-
 # github repository information
 repo_name: SBCSHS/sbcshs-website
 repo_url: https://github.com/SBCSHS/sbcshs-website
