@@ -12,10 +12,10 @@ The society is chartered through the Computer Science Teacher's Association.
 
 **Service**: Members of CSHS serve their community and help grow Stone Bridge's computer science community.
 
-**Excellence**:ewrew CSHS at SB strives for excellence by making sure students are maintaining good grades while also commiting their time to community service - computing related.
+**Excellence**: CSHS at SB strives for excellence by making sure students are maintaining good grades while also commiting their time to community service - computing related.
 
 ## How To Join
 
 In order to join the Computer Science Honor Society, students must be concurrent in or have taken AP Computer Science A and/or AP Computer Science Principles and maintain at least a B average in the computing course. Members will provide computer science related service of at least 5 hours per semester.
 
-<img src="images/CSHS_Logo_square_letters.png" alt="Test" width="200" height="200">
+<img src="/images/cshs.png" alt="CSHS Logo" width="200" height="200">
