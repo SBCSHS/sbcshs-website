@@ -10,7 +10,7 @@ The society is chartered through the Computer Science Teacher's Association.
 
 **Equity**: CSHS strives to achieve a diverse and inclusive computer science community at Stone Bridge.
 **Service**: Members of CSHS serve their community and help grow Stone Bridge's computer science community.
-**Excellence**:
+**Excellence**:ewrew
 
 ## How To Join
 
