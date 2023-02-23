@@ -7,8 +7,10 @@ The society is chartered through the Computer Science Teacher's Association.
 ## Core Values
 
 **Equity**: SBCSHS strives to achieve a diverse and inclusive computer science community at Stone Bridge.
-**Service**:
-**Excellence**:
+
+**Service**: 
+
+**Excellence**: CSHS at SB strives for excellence by making sure students are maintaining good grades while also commiting their time to community service - computing related.
 
 ## How To Join
 
