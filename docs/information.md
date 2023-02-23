@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # About Us
 
 The Computer Science Honor Society promotes and recognizes academic excellence and service among computer science students at SBHS.
@@ -6,8 +8,8 @@ The society is chartered through the Computer Science Teacher's Association.
 
 ## Core Values
 
-**Equity**: SBCSHS strives to achieve a diverse and inclusive computer science community at Stone Bridge.
-**Service**:
+**Equity**: CSHS strives to achieve a diverse and inclusive computer science community at Stone Bridge.
+**Service**: Members of CSHS serve their community and help grow Stone Bridge's computer science community.
 **Excellence**:
 
 ## How To Join
