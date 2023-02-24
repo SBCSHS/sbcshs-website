@@ -10,7 +10,7 @@
 </nav>
 -->
 
-<img src= "https://lh4.googleusercontent.com/Xj7qvKOOU94OpWvhlh9nfVKEYnx1qFw2dcbJ0a839UHP6foP2LJTb52oBJfb0buMD75C5nfruA0xs6eJJ6fCz-DmLP6P-RcNWtYcRcHFiA1_fWYMs4_wPtHMPno0YGp1=w1280" height=150 width = 150>
+<img src= "https://raw.githubusercontent.com/SBCSHS/sbcshs-website/main/docs/images/sbhs.png" height=150 width = 150>
 
 <p> This is the home page of the Stone Bridge Computer Science Honor Society (2022-2023)<br>
     MORE TEXT</p>

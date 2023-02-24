@@ -25,7 +25,7 @@ theme:
     - search.share
     - content.tabs.link
     - content.code.annotate
-    #   - navigation.tabs
+    - navigation.tabs
     - navigation.expand
     - navigation.tracking
     - navigation.instant
