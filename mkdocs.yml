@@ -32,8 +32,9 @@ theme:
     - navigation.sections
     #   - navigation.indexes
     - toc.integrate
+  logo: images/sbhs_450x450.png
+
   icon:
-    logo: assets/sbhs.png
     repo: fontawesome/brands/github
     edit: material/pencil
   # custom_dir: overrides
