@@ -1,4 +1,23 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD041 -->
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href="../stylesheets/snowflakes.css" />
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SASS in HTML</title>
+ </head>
+ <body>
+  <script>
+   for(var i = 0; i < 25; i++) {
+    var div = document.createElement("div")
+    div.className = "snow";
+    document.body.appendChild(div);
+}
+</script>
+
+ </body>
+</html>
 
 # About Us
 
