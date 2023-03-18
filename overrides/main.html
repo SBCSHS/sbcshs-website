@@ -1,7 +1,6 @@
 {% extends "base.html" %} {% block container %}
-<!-- Add scripts that need to run before here -->
-{{ super() }}
-<!-- Add scripts that need to run afterwards here -->
 <link rel="stylesheet" href="assets/stylesheets/snowflakes.css" />
-<script src="assets/javascripts/snowflakes.js" />
+
+{% endblock %} {% block scripts%}
+<script src="assets/javascripts/snowflakes.js"></script>
 {% endblock %}
