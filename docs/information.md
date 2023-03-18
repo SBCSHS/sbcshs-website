@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<link rel="stylesheet" href="/stylesheets/snowflakes.css" /><script src="/javascripts/snowflakes.js"/>
+<link rel="stylesheet" href="/assets/stylesheets/snowflakes.css" /><script src="/assets/javascripts/snowflakes.js"/>
 
 # About Us
 
