@@ -1,3 +1,5 @@
 
 LICENSE
 site
+_site
+.jekyll-cache

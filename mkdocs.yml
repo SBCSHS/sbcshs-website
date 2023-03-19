@@ -30,12 +30,13 @@ theme:
     - navigation.sections
     #   - navigation.indexes
     - toc.integrate
-  logo: images/sbhs_450x450.png
+  logo: /assets/images/sbhs_450x450.png
+  custom_dir: overrides
 
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
-  # custom_dir: overrides
+    #custom_dir: overrides
   palette:
     - scheme: default
       toggle:
@@ -53,7 +54,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/SBCSHS/sbcshs-website
       name: sbcshs-website
-
 # plugins
 plugins:
   - git-revision-date-localized: # date and time of edit

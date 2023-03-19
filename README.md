@@ -13,10 +13,10 @@ To install all dependencies required to build the site, run
 pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox pillow cairosvg
 ```
 
-When adding images, upload the file to `/docs/images`, then use the link
+When adding images, upload the file to `/overrides/assets/images`, then use the link
 
 ```sh
-"https://raw.githubusercontent.com/SBCSHS/sbcshs-website/main/docs/images/[insert file name]"
+"/assets/images/[insert file name]"
 ```
 
 Use HTML to add images.
@@ -25,3 +25,5 @@ Use HTML to add images.
 ```html
 <img src="[url]" alt="[title]" width="[num]" height="[num]" align="[alignment]" loading="eager"/>
 ```
+
+Refer to the (https://squidfunk.github.io/mkdocs-material/)[Material for MkDocs] to learn more about Material's capabilities.
