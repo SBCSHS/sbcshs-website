@@ -1,15 +1,15 @@
 /** @format */
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #5487be;
+  --md-primary-fg-color: #78a4d3;
   --md-primary-fg-color--light: #8fbced;
-  --md-primary-fg-color--dark: #78a4d3;
+  --md-primary-fg-color--dark: #5487be;
 }
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #8bb8e8;
+  --md-primary-fg-color: #78a4d3;
   --md-primary-fg-color--light: #8bb8e8;
-  --md-primary-fg-color--dark: #8bb8e8;
+  --md-primary-fg-color--dark: #5487be;
 }
 
 .md-typeset .admonition,
