@@ -1,4 +1,7 @@
 <!-- @format -->
+<!-- markdownlint-disable MD041 -->
+
+![GitHub contributors](https://img.shields.io/badge/Contributors-5-brightgreen)
 
 # sbcshs-website
 
