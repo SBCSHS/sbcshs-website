@@ -26,4 +26,4 @@ Use HTML to add images.
 <img src="[url]" alt="[title]" width="[num]" height="[num]" align="[alignment]" loading="eager"/>
 ```
 
-Refer to the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) documentation to learn more about Material's capabilities.
+Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkdocs-material/) to learn more about Material's capabilities.
