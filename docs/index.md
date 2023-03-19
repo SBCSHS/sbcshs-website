@@ -1,8 +1,3 @@
----
-hide:
-  - footer
----
-
 <!-- markdownlint-disable MD033 -->
 
 # Computer Science Honor Society
