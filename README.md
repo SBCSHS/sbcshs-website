@@ -1,7 +1,10 @@
 <!-- @format -->
 <!-- markdownlint-disable MD041 -->
 
-![GitHub contributors](https://img.shields.io/badge/Contributors-5-brightgreen)
+![Actions Status](https://img.shields.io/github/actions/workflow/status/SBCSHS/sbcshs-website/ci.yml?style=for-the-badge)
+![GitHub Contributors](https://img.shields.io/github/contributors/SBCSHS/sbcshs-website?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/SBCSHS/sbcshs-website?style=for-the-badge)
+![Website Status](https://img.shields.io/website?down_color=orange&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fsbcshs.github.io%2Fsbcshs-website%2F)
 
 # sbcshs-website
 
@@ -26,7 +29,7 @@ When adding images, upload the file to `/overrides/assets/images`, then use HTML
 If adding images to index.md, change the src attribute to
 
 ```sh
-"./assets/images/[image]"
+"assets/images/[image]"
 ```
 
 Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkdocs-material/) to learn more about Material's capabilities.
