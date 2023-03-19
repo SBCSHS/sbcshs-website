@@ -5,6 +5,7 @@
 ![GitHub Contributors](https://img.shields.io/github/contributors/SBCSHS/sbcshs-website?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/SBCSHS/sbcshs-website?style=for-the-badge)
 ![Website Status](https://img.shields.io/website?down_color=orange&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fsbcshs.github.io%2Fsbcshs-website%2F)
+![Language Count](https://img.shields.io/github/languages/count/SBCSHS/sbcshs-website?style=for-the-badge)
 
 # sbcshs-website
 
