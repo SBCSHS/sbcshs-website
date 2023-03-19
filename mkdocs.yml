@@ -25,11 +25,13 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - navigation.tabs
+    - navigation.footer
+    - navigation.prune
     - navigation.expand
     - navigation.tracking
     - navigation.instant
     - navigation.sections
-    #   - navigation.indexes
+    - navigation.indexes
     - toc.integrate
   logo: "../assets/images/sbhs_450x450.png"
   custom_dir: overrides
@@ -60,7 +62,7 @@ plugins:
   - git-revision-date-localized: # date and time of edit
       enable_creation_date: true
       type: iso_datetime
-      fallback_to_build_date: true
+      fallback_to_build_date: false
   - glightbox: # image linking
       touchNavigation: true
       loop: false
@@ -125,3 +127,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+
+nav:
+  - Home: index.md
+  - Information: information.md
+  - Resources: resources.md

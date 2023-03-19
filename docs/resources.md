@@ -1,11 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 <h1>CSHS Resources</h1>
 
-<img src= "../assets/images/cshs.png" height=200 width = 200>
+<img src= "../assets/images/cshs.png" alt="CSHS Logo" height=200 width = 200>
 
-<p>This page has CSHS resources available here.</p>
+This page has CSHS resources available here.
 
-<h3>Important Links</h3>
+## Important Links
 
 [Hours Tracker](https://docs.google.com/spreadsheets/d/1SV_Ki6cGMWb06zYWT06DEOEKLPU33jU1qxbgyJ5TMo4/edit#gid=0)
 
@@ -13,8 +13,9 @@
 
 [Google form to submit hours](https://learn.lcps.org/link?a=2555928654&path=https%3A%2F%2Fforms.gle%2FVHtPviavADx6iNxh8)
 
-<h3>Join the Schoology and Remind!!!</h3>
-<img src= "../assets/images/schoology_image.png" height=100 width = 100>
+## Join the Schoology and Remind
+
+<img src= "../assets/images/schoology_image.png" alt="Schoology Logo" height=100 width = 100>
 <br> Schoology Group Code : 5RMV-X737-QXKRF<br>
-<img src= "../assets/images/remind_image.png" height=100 width = 100>
+<img src= "../assets/images/remind_image.png" alt="Remind Logo" height=100 width = 100>
 <br> Remind Code: @sbcshs2022<br>
