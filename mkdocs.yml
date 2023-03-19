@@ -1,12 +1,13 @@
 # @format
 
 site_name: "Stone Bridge Computer Science Honor Society"
-site_author: SBHS CS Honor Society
+site_author: "SBHS CS Honor Society"
 site_description: "Website for the SBHS CS Honor Society."
 site_url: "https://sbcshs.github.io/sbcshs-website/"
+
 # github repository information
-repo_name: SBCSHS/sbcshs-website
-repo_url: https://github.com/SBCSHS/sbcshs-website
+repo_name: "SBCSHS/sbcshs-website"
+repo_url: "https://github.com/SBCSHS/sbcshs-website"
 edit_uri: ""
 
 # new colors
@@ -30,7 +31,7 @@ theme:
     - navigation.sections
     #   - navigation.indexes
     - toc.integrate
-  logo: "/assets/images/sbhs_450x450.png"
+  logo: "./assets/images/sbhs_450x450.png"
   custom_dir: overrides
 
   icon:
