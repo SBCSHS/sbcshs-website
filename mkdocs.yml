@@ -30,7 +30,7 @@ theme:
     - navigation.sections
     #   - navigation.indexes
     - toc.integrate
-  logo: /assets/images/sbhs_450x450.png
+  logo: "/assets/images/sbhs_450x450.png"
   custom_dir: overrides
 
   icon:
