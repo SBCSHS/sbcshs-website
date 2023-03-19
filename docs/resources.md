@@ -14,7 +14,7 @@
 [Google form to submit hours](https://learn.lcps.org/link?a=2555928654&path=https%3A%2F%2Fforms.gle%2FVHtPviavADx6iNxh8)
 
 <h3>Join the Schoology and Remind!!!</h3>
-<img src= "/assets/images/schoologyImage.png" height=100 width = 100>
+<img src= "./assets/images/schoologyImage.png" height=100 width = 100>
 <br> Schoology Group Code : 5RMV-X737-QXKRF<br>
 <img src= "./assets/images/remindImage.png" height=100 width = 100>
 <br> Remind Code: @sbcshs2022<br>
