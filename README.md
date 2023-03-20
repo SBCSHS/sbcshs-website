@@ -14,15 +14,15 @@ This repository contains the source code for the website for Stone Bridge High S
 
 ## Contributing
 
-To install all dependencies required to build the site, run
+### Setup
 
-## Setup
+To install all dependencies required to build the site, run
 
 ```sh
 pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox pillow cairosvg
 ```
 
-## Adding Images
+### Adding Images
 
 When adding images, upload the file to `/overrides/assets/images`, then use HTML to add images.
 
@@ -31,7 +31,7 @@ When adding images, upload the file to `/overrides/assets/images`, then use HTML
 <img src="../assets/images/[image]" alt="[title]" width="[num]" height="[num]" align="[alignment]" loading="eager"/>
 ```
 
-If adding images to index.md, change the src attribute to
+If adding images to index.md, change the `src` attribute to
 
 ```sh
 "assets/images/[image]"
