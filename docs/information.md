@@ -7,7 +7,7 @@
 The Computer Science Honor Society promotes and recognizes academic excellence and service among computer science students at SBHS.
 
 The society is chartered through the Computer Science Teacher's Association.
-<img src= "../assets/images/cshs.png" alt="CSHS Logo" width="200" height="200" align=right>
+<img src= "../assets/images/cshs.png" alt="CSHS Logo" width="200" height="200" align="right" loading="eager"/>
 
 ## Core Values
 

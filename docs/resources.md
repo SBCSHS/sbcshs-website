@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <h1>CSHS Resources</h1>
 
-<img src= "../assets/images/cshs.png" alt="CSHS Logo" height="200" width = "200" align="right">
+<img src= "../assets/images/cshs.png" alt="CSHS Logo" height="200" width = "200" align="right" loading="eager"/>
 
 This page has CSHS resources available here.
 
@@ -15,7 +15,7 @@ This page has CSHS resources available here.
 
 ## Join the Schoology and Remind
 
-<img src= "../assets/images/schoology_image.png" alt="Schoology Logo" height="100" width = "100">
+<img src= "../assets/images/schoology_image.png" alt="Schoology Logo" height="100" width = "100" loading="eager"/>
 <br> Schoology Group Code : 5RMV-X737-QXKRF<br>
-<img src= "../assets/images/remind_image.png" alt="Remind Logo" height="100" width = "100">
+<img src= "../assets/images/remind_image.png" alt="Remind Logo" height="100" width = "100" loading="eager"/>
 <br> Remind Code: @sbcshs2022<br>
