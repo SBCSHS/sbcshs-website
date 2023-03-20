@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD033 -->
 <h1>CSHS Resources</h1>
 
 <img src= "../assets/images/cshs.png" alt="CSHS Logo" height="200" width = "200" align="right" loading="eager"/>

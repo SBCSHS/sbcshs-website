@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 # Computer Science Honor Society
 
 <img src= "assets/images/sbhs.png" alt="Stone Bridge Logo" height=150 width = 150 align="right" loading="eager"/>

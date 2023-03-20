@@ -1,7 +1,3 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<!--<link rel="stylesheet" href="/stylesheets/snowflakes.css" /><script src="/javascripts/snowflakes.js"/>
--->
-
 # About Us
 
 The Computer Science Honor Society promotes and recognizes academic excellence and service among computer science students at SBHS.
