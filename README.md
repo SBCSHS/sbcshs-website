@@ -33,8 +33,8 @@ When adding images, upload the file to `/overrides/assets/images`, then use HTML
 
 If adding images to index.md, change the `src` attribute to
 
-```sh
-"assets/images/[image]"
+```html
+<img src="assets/images/[image]" />
 ```
 
 Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkdocs-material/) to learn more about Material for MkDocs's capabilities.
