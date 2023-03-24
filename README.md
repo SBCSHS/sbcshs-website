@@ -41,6 +41,6 @@ Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkd
 
 Other [setup instructions](https://docs.google.com/document/d/1oQhitMMDR1e3i4wIZtlZpyAiFXbA5AJDiw4GghEtfGQ/edit)
 
---8<--
-setup.md
---8<--
+```yaml
+--8<-- "setup.md"
+```
