@@ -11,8 +11,9 @@ Note: If you don't want to/can’t install Desktop and/or VS code, you can do ev
 Sign into GitHub Desktop using your GitHub account.
 
 Extensions:
-Live Sass Compiler
-Markdownlint (recommended):
+[Live Sass Compiler]() (recommended)
+Allows you to compile sass and scss files to css.
+[Markdownlint]() (recommended):
 Provides formatting advice for the markdown language.
 
 Color Highlight
