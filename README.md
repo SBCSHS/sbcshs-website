@@ -38,3 +38,5 @@ If adding images to index.md, change the `src` attribute to
 ```
 
 Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkdocs-material/) to learn more about Material for MkDocs's capabilities.
+
+Other [setup instructions](https://docs.google.com/document/d/1oQhitMMDR1e3i4wIZtlZpyAiFXbA5AJDiw4GghEtfGQ/edit)
