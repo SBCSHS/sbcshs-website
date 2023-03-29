@@ -73,3 +73,38 @@ Provides formatting advice for the markdown language.
 
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight):
 Displays the color of an RGB or hex code value next to the value itself.
+
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+General formatter for most popular languages.
+
+<html>
+    <header>
+        <style>
+            figure{
+                float:left;
+                width:260px;
+                margin:10px;
+            }
+            figure figcaption {
+                text-align: center;
+            }
+            nav a {
+                text-decoration: underline;
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+            }
+        </style>
+    </header>
+    <figure>
+        <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">
+            <img src="overrides/assets/images/prettier.png" alt="Webformatter" width="125px" />
+            <figcaption>Prettier - Code formatter</figcaption>
+        </a href>
+    </figure>
+    <figure>
+        <img src="overrides/assets/images/code-color.png" alt="Webformatter" width="125px" />
+        <figcaption>Webformatter</figcaption>
+    </figure>
+</html>
