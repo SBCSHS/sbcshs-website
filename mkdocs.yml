@@ -106,8 +106,6 @@ markdown_extensions:
       smart_mark: true
   - pymdownx.snippets: # allows snippets of code to be inserted into the website
       check_paths: true
-      base_path:
-        - ""
   - pymdownx.superfences: # allows code to be formatted properly and various other things.
       custom_fences:
         - name: mermaid

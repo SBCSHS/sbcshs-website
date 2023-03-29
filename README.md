@@ -39,6 +39,25 @@ If adding images to index.md, change the `src` attribute to
 
 Refer to the [Material for MkDocs documentation](https://squidfunk.github.io/mkdocs-material/) to learn more about Material for MkDocs's capabilities.
 
-Other [setup instructions](https://docs.google.com/document/d/1oQhitMMDR1e3i4wIZtlZpyAiFXbA5AJDiw4GghEtfGQ/edit)
+## Setting up VSCode and Github
 
---8<-- "setup.md"
+Install [VSCode](https://code.visualstudio.com/download).
+
+Visit [GitHub](https://github.com/signup) and make an account.
+(If you already have an account, skip this step)
+
+Download [GitHub Desktop](https://desktop.github.com/) (unless you are familiar with git or other alternatives).
+Note: If you don't want to/can’t install Desktop and/or VS code, you can do everything within the browser, but you may have limited access. I (Basil) am doing it on the browser and have been able to do everything just the same, though keep in mind that things may go wrong.
+
+Sign into GitHub Desktop using your GitHub account.
+![GitHub Desktop][assets/desktopsignin.png]
+
+Extensions:
+[Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) (recommended):
+Allows you to compile sass and scss files to css.
+
+[Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) (recommended):
+Provides formatting advice for the markdown language.
+
+[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight):
+Displays the color of an RGB or hex code value next to the value itself.
