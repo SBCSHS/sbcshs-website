@@ -50,7 +50,7 @@ Download [GitHub Desktop](https://desktop.github.com/) (unless you are familiar 
 Note: If you don't want to/can’t install Desktop and/or VS code, you can do everything within the browser, but you may have limited access. I (Basil) am doing it on the browser and have been able to do everything just the same, though keep in mind that things may go wrong.
 
 Sign into GitHub Desktop using your GitHub account.
-![GitHub Desktop][assets/desktopsignin.png]
+![GitHub Desktop](overrides/assets/images/desktopsignin.png)
 
 Extensions:
 [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) (recommended):
