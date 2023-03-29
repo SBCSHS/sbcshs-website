@@ -77,6 +77,7 @@ Displays the color of an RGB or hex code value next to the value itself.
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 General formatter for most popular languages.
 
+<!--
 <html>
     <header>
     </header>
@@ -93,3 +94,4 @@ General formatter for most popular languages.
         </a href>
     </figure>
 </html>
+-->
