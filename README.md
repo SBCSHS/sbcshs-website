@@ -51,13 +51,15 @@ Note: If you don't want to/can’t install Desktop and/or VS code, you can do ev
 
 Sign into GitHub Desktop using your GitHub account.
 
-![GitHub Desktop](overrides/assets/images/desktopsignin.png)
+![GitHub Desktop](overrides/assets/images/desktop_signin.png)
 
 Clone the repository.
 
-![Clone Repository](overrides/assets/images/clonerepo.png)
+![Clone Repository](overrides/assets/images/clone_repo.png)
 
 If VSCode is installed, click the button "Open in Visual Studio Code".
+
+![Open in Visual Studio Code](overrides/assets/images/open_in_vscode.png)
 
 ### Extras
 
