@@ -82,12 +82,14 @@ General formatter for most popular languages.
     </header>
     <figure>
         <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">
-            <img src="overrides/assets/images/prettier.png" alt="Webformatter" width="125px" />
+            <img src="overrides/assets/images/prettier.png" alt="Prettier" width="125px" />
             <figcaption>Prettier - Code formatter</figcaption>
         </a href>
     </figure>
     <figure>
-        <img src="overrides/assets/images/code-color.png" alt="Webformatter" width="125px" />
-        <figcaption>Webformatter</figcaption>
+        <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">
+            <img src="overrides/assets/images/code-color.png" alt="Color Highlight" width="125px" />
+            <figcaption>Color Highlight</figcaption>
+        </a href>
     </figure>
 </html>
