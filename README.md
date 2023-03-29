@@ -57,6 +57,8 @@ Clone the repository.
 
 ![Clone Repository](overrides/assets/images/clonerepo.png)
 
+If VSCode is installed, click the button "Open in Visual Studio Code".
+
 ### Extras
 
 Extensions:
