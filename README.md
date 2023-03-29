@@ -79,23 +79,6 @@ General formatter for most popular languages.
 
 <html>
     <header>
-        <style>
-            figure{
-                float:left;
-                width:260px;
-                margin:10px;
-            }
-            figure figcaption {
-                text-align: center;
-            }
-            nav a {
-                text-decoration: underline;
-                display: block;
-                color: white;
-                text-align: center;
-                padding: 14px 16px;
-            }
-        </style>
     </header>
     <figure>
         <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">
